@@ -274,7 +274,6 @@ nav li:hover, nav li:focus{
     grid-gap: 4vh 2vw;
     height: 64vh; width: 64vw;
     margin: 2vh auto;
-    padding: 1vh auto;
     background-color: rgb(240, 240, 240); ; 
 }
 
@@ -299,7 +298,7 @@ nav li:hover, nav li:focus{
     height: 30vh; width: 20vw;
     background-color: rgb(240, 240, 240); ; 
     overflow: hidden;
-
+    padding: 1vh auto;
     font-weight: bold;
     text-align: center;
 }
