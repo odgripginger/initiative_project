@@ -229,13 +229,14 @@ nav li:hover, nav li:focus{
 }
 
 .profile-pic {
-    width: 40%;
-    margin-top: 1vh;
-    margin-bottom: 1vh;
+    width: 10vw; height: 10vw;
+    margin-top: .5vh;
+    margin-bottom: .5vh;
     border-radius: 50%;
     border: 3px inset rgb(212, 212, 212);
     transition: transform 0.5s;
     align-self: center;
+
 
 }
 
